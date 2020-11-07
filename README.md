@@ -1,7 +1,7 @@
 <link href="https://allfont.net/allfont.css?fonts=electroharmonix" rel="stylesheet" type="text/css" />
 
 <!--
-**Szask1a/Szask1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ab3y4/Ab3y4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
-  <a href="https://twitter.com/sask1aaa"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/sundxncekid"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abisheaka-karunaratne-4bb0bb1a6/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;
-  <a href="https://www.behance.net/saskiaaa"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_77-behance_104426.svg"></a>&nbsp;
-  <a href="https://dribbble.com/ab1sheaka"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_dribble_313487.svg"></a>&nbsp;
-  <a href="https://codepen.io/Sask1a"><img height="30" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png"></a>
+<p align="center">
+  <a href="https://www.facebook.com/Ab3yA/"><img height="50" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Tharindastyles"><img height="50" src="https://img.icons8.com/bubbles/50/000000/twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_takumi.fujiwara__"><img height="50" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"></a>&nbsp;&nbsp;
+  <a href="https://https://www.linkedin.com/in/tharinda-abeysena-3a395892/"><img height="50" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"></a>&nbsp;
+  <a href="https://www.behance.net/lmfaotharinda"><img height="50" src="https://img.icons8.com/bubbles/50/000000/behance.png">"</a>&nbsp;
 </p>
 <br>
 
