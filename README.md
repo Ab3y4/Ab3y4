@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/qYUfBeJXRxBu0/giphy.gif">
   </p>
   <h5 style="text-align:center">D E V E L O P E R 👽 E N T R E P R E N E U R  </h5>
-  <h5 style="text-align:center">M A N G A &nbsp; F O R  T H E  L I F E </h5>
+  <h5 style="text-align:center">💖 M A N G A &nbsp; F O R &nbsp; T H E &nbsp; L I F E 💗 </h5>
   
 </div>
 
