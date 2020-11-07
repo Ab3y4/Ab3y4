@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">A B I &nbsp;&nbsp; K A R U N A R A T N E </h2>
+  <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">T H A R I N D A &nbsp;&nbsp; A B E Y S E N A </h2>
   <p align="center">
     <img src="https://media.giphy.com/media/dUgCSL3T36IAKDcclh/giphy.gif">
   </p>
