@@ -62,22 +62,18 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Git-Bash-informational?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Unity-Engine-informational?style=for-the-badge&logo=unity&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Unreal-Engine-informational?style=for-the-badge&logo=unreal-engine&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/3D-Blender-informational?style=for-the-badge&logo=blender&logoColor=white&color=2bbc8a)
+
   
 <br>
 
-## 🎵 V I B E &nbsp; C H E C K &nbsp; <img src="https://media.giphy.com/media/QBYXXfVNmEFfvghkry/giphy.gif" width="40px">
+<img src="https://media.giphy.com/media/BbQRmt4tb0yEU/giphy.gif" width="40px"> <h2> M U S I C &nbsp; S T A T I O N &nbsp; <img src="https://media.giphy.com/media/3o6ZsWqOrPRbtQoHG8/giphy.gif" width="40px">
 
 
-  https://open.spotify.com/user/635edy1kwdnd2abjd9d5f7dqv?si=qSuMp03KRcipOt6H4_puCA
+  https://open.spotify.com/user/21j2xlj6atv2hfe7jkbmluuvy
   
 
 
-[![Ab3y4's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ab3y4&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/Ab3y4/github-readme-stats)
-<br><br>
 
