@@ -29,13 +29,9 @@ Here are some ideas to get you started:
   <p align="center">
     <img src="https://media.giphy.com/media/qYUfBeJXRxBu0/giphy.gif">
   </p>
-  <h5 style="text-align:center">D E S I G N E R ➕ D E V E L O P E R ✖️ </h5>
-  <h5 style="text-align:center">J A P A N E S E &nbsp; E N T H U S I A S T </h5>
-  <p align="center">
-    <a href="#">
-        <img src="https://img.shields.io/badge/Made_With-Love-informational?style=for-the-badge&logo=heart&logoColor=white&color=C13B3A&labelColor=EA4560&logoWidth=40&logoHeight=20"
-            alt="UwU"></a>
-  </p>
+  <h5 style="text-align:center">D E V E L O P E R 👽 E N T R E P R E N E U R  </h5>
+  <h5 style="text-align:center">M A N G A &nbsp; F O R T H E L I F E </h5>
+  
 </div>
 
 <div align="center">
