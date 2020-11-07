@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">T H A R I N D A &nbsp;&nbsp; A B E Y S E N A </h2>
   <p align="center">
-    <img src="https://media.giphy.com/media/dUgCSL3T36IAKDcclh/giphy.gif">
+    <img src="https://media.giphy.com/media/qYUfBeJXRxBu0/giphy.gif">
   </p>
   <h5 style="text-align:center">D E S I G N E R ➕ D E V E L O P E R ✖️ </h5>
   <h5 style="text-align:center">J A P A N E S E &nbsp; E N T H U S I A S T </h5>
