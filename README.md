@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-[![Abi's github stats](https://github-readme-stats.vercel.app/api?username=Szask1a&theme=material-palenight&show_icons=true&count_private=true?)](https://github.com/Szask1a/github-readme-stats)
+[![Ab3y4's github stats](https://github-readme-stats.vercel.app/api?username=Szask1a&theme=material-palenight&show_icons=true&count_private=true?)](https://github.com/Szask1a/github-readme-stats)
 
 <br>
 
