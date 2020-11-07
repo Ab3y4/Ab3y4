@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
-
+<div align="center">
 [![Ab3y4's github stats](https://github-readme-stats.vercel.app/api?username=Ab3y4&theme=material-palenight&show_icons=true&count_private=true?)](https://github.com/Ab3y4/github-readme-stats)
-
+</div>
 <br>
 
 ## <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> S K I L L S
