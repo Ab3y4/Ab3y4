@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   https://open.spotify.com/user/635edy1kwdnd2abjd9d5f7dqv?si=qSuMp03KRcipOt6H4_puCA
   
 
-<div align="center">
+
 [![Ab3y4's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ab3y4&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/Ab3y4/github-readme-stats)
 <br><br>
-</div>
+
