@@ -64,12 +64,12 @@ Here are some ideas to get you started:
 
   
 <br>
-
+<div align="center">
 ## M U S I C &nbsp; S T A T I O N &nbsp; <img src="https://media.giphy.com/media/3o6ZsWqOrPRbtQoHG8/giphy.gif" width="40px">
 
 
   <h3>https://open.spotify.com/user/21j2xlj6atv2hfe7jkbmluuvy
   
-
+</div>
 
 
