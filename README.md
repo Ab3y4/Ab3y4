@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.facebook.com/Ab3yA/"><img height="50" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/Tharindastyles"><img height="50" src="[https://img.icons8.com/bubbles/50/000000/twitter.png](https://icons8.com/icon/xWVjuc9hryql/twitter)"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Tharindastyles"><img height="50" src="https://icons8.com/icon/13963/twitter"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/_takumi.fujiwara__"><img height="50" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"></a>&nbsp;&nbsp;
   <a href="https://https://www.linkedin.com/in/tharinda-abeysena-3a395892/"><img height="50" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"></a>&nbsp;
-  <a href="https://www.behance.net/lmfaotharinda"><img height="50" src="https://img.icons8.com/bubbles/50/000000/behance.png">"</a>&nbsp;
+  <a href="https://www.behance.net/lmfaotharinda"><img height="50" src="https://img.icons8.com/bubbles/50/000000/behance.png"></a>&nbsp;
 </p>
 <br>
 
