@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://www.facebook.com/Ab3yA/"><img height="50" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/Tharindastyles"><img height="50" src="https://icons8.com/icon/119014/twitter"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_takumi.fujiwara__"><img height="50" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"></a>&nbsp;&nbsp;
-  <a href="https://https://www.linkedin.com/in/tharinda-abeysena-3a395892/"><img height="50" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"></a>&nbsp;
-  <a href="https://www.behance.net/lmfaotharinda"><img height="50" src="https://img.icons8.com/bubbles/50/000000/behance.png"></a>&nbsp;
+  <a href="https://www.facebook.com/Ab3yA/"><img height="50" src="https://github.com/Ab3y4/Ab3y4/assets/38062279/ea77672b-9a14-44b4-b0ef-1e7690f7263a"></a>&nbsp;&nbsp;
+  <a href="https://x.com/Tharindastyles"><img height="50" src="https://img.icons8.com/?size=100&id=ZNMifeqJbPRv&format=png&color=000000"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_takumi.fujiwara__"><img height="50" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"></a>&nbsp;&nbsp;
+  <a href="https://https://www.linkedin.com/in/tharinda-abeysena-3a395892/"><img height="50" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"></a>&nbsp;
+  <a href="https://www.behance.net/lmfaotharinda"><img height="50" src="https://img.icons8.com/?size=100&id=MME8DugmLdh0&format=png&color=000000"></a>&nbsp;
 </p>
 <br>
 
 <div align="center">
   <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">T H A R I N D A &nbsp;&nbsp; A B E Y S E N A </h2>
   <p align="center">
-    <img src="https://media.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxbGcxb2didWlpendoc3dzNmZid3FrcGpjNG95cXpnc2VndXU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRlqKEzTDKci5JPcaL/giphy.gif">
   </p>
   <h5 style="text-align:center">D E V E L O P E R  👽  D E S I G N E R  </h5>
   <h5 style="text-align:center">🤘 M E T A L H E A D &nbsp; F O R &nbsp; L I F E 🖤 </h5>
